@@ -38,4 +38,6 @@ guest 10.0.0.5 5
 - License: CC BY-NC-SA 4.0 (or choose MIT if you prefer).
 
 ## Contact
-Syed Bilal Faiz — [bilalfaiz614@gmail.com or linkedin.com/in/syed-bilal-faiz-262324247]
+Syed Bilal Faiz — [bilalfaiz614@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-bilal-faiz-262324247)
+
